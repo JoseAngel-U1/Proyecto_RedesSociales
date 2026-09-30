@@ -25,6 +25,11 @@ Cls()
 #? sesiones_diarias = [1, 30]
 #? interaccion_diaria = [0, 200]
 
+#TODO: Funciones:
+def generar_null(valor, probabilidad=0.10):
+    if random.random() < probabilidad:
+        return None
+    return valor
 
 #TODO: Generar dataset:
 datos = []
@@ -32,50 +37,50 @@ datos = []
 for i in range(100):
 
     registro = {
-        "edad": random.randint(13, 65),
+        "edad": generar_null(random.randint(13, 65)),
 
-        "red_social_principal": random.choice(
-            red_social_principal
+        "red_social_principal": generar_null(
+            random.choice(red_social_principal)
         ),
 
-        "frecuencia_uso": random.choice(
-            frecuencia_uso
+        "frecuencia_uso": generar_null(
+            random.choice(frecuencia_uso)
         ),
 
-        "horas_diarias": round(
-            random.uniform(0.5, 12), 1
+        "horas_diarias": generar_null(
+            round(random.uniform(0.5, 12), 1)
         ),
 
-        "sesiones_diarias": random.randint(
-            1, 30
+        "sesiones_diarias": generar_null(
+            random.randint(1, 30)
         ),
 
-        "tipo_contenido": random.choice(
-            tipo_contenido
+        "tipo_contenido": generar_null(
+            random.choice(tipo_contenido)
         ),
 
-        "interaccion_diaria": random.randint(
-            0, 200
+        "interaccion_diaria": generar_null(
+            random.randint(0, 200)
         ),
 
-        "publica_contenido": random.choice(
-            publica_contenido
+        "publica_contenido": generar_null(
+            random.choice(publica_contenido)
         ),
 
-        "uso_nocturno": random.choice(
-            uso_nocturno
+        "uso_nocturno": generar_null(
+            random.choice(uso_nocturno)
         ),
 
-        "notificaciones": random.choice(
-            notificaciones
+        "notificaciones": generar_null(
+            random.choice(notificaciones)
         ),
 
-        "motivo_principal": random.choice(
-            motivo_principal
+        "motivo_principal": generar_null(
+            random.choice(motivo_principal)
         ),
 
-        "nivel_satisfaccion": random.choice(
-            nivel_satisfaccion
+        "nivel_satisfaccion": generar_null(
+            random.choice(nivel_satisfaccion)
         )
     }
 
