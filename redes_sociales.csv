@@ -1,101 +1,101 @@
 ﻿edad,red_social_principal,frecuencia_uso,horas_diarias,sesiones_diarias,tipo_contenido,interaccion_diaria,publica_contenido,uso_nocturno,notificaciones,motivo_principal,nivel_satisfaccion
-14.0,Facebook,Diariamente,2.4,3.0,Noticias,42.0,No,,Pocas,Comunicación,Muy alto
-25.0,Instagram,Raramente,1.3,30.0,Música,69.0,No,Nunca,,Entretenimiento,Muy bajo
-24.0,WhatsApp,Semanalmente,0.8,9.0,,169.0,Sí,Frecuentemente,Moderadas,Información,
-25.0,YouTube,Varias veces por semana,,2.0,Entretenimiento,129.0,Sí,Siempre,Moderadas,,Alto
-18.0,Facebook,Semanalmente,3.4,11.0,Videojuegos,,Sí,Siempre,,,Bajo
-13.0,TikTok,Diariamente,5.8,28.0,Música,62.0,Sí,,Muchas,Promoción/negocio,Alto
-16.0,Facebook,Semanalmente,7.1,,Videojuegos,121.0,Sí,A veces,Moderadas,Comunicación,Alto
-17.0,X,Semanalmente,2.7,14.0,Memes,21.0,Sí,Siempre,Moderadas,Promoción/negocio,Alto
-15.0,YouTube,Raramente,9.6,27.0,,178.0,Sí,Raramente,Ninguna,Trabajo,Medio
-21.0,X,Raramente,4.9,1.0,Noticias,75.0,Sí,Frecuentemente,Ninguna,,Medio
-13.0,TikTok,Varias veces al día,9.3,1.0,Entretenimiento,141.0,No,Nunca,Ninguna,Educación,Bajo
-13.0,TikTok,Varias veces al día,10.8,14.0,Videojuegos,195.0,Sí,Siempre,Ninguna,Comunicación,Muy alto
-21.0,Facebook,Semanalmente,,6.0,,12.0,No,A veces,Pocas,,Muy alto
-17.0,Facebook,,2.7,13.0,Videojuegos,146.0,Sí,A veces,Muchas,Trabajo,
-16.0,Facebook,,0.5,13.0,,87.0,,Nunca,Muchas,Trabajo,Alto
-16.0,TikTok,Diariamente,,20.0,Deportes,198.0,,Raramente,Moderadas,Educación,Alto
-14.0,Instagram,Diariamente,11.9,12.0,Música,27.0,,Frecuentemente,Ninguna,Información,Muy alto
-21.0,Instagram,Varias veces al día,4.6,24.0,,184.0,Sí,Frecuentemente,Moderadas,Educación,Muy bajo
-21.0,WhatsApp,Diariamente,9.0,25.0,Videojuegos,,No,Nunca,Pocas,Trabajo,Alto
-13.0,X,Varias veces por semana,5.7,5.0,Tutoriales,94.0,No,Frecuentemente,Muchas,Comunicación,
-15.0,Facebook,Raramente,,11.0,,113.0,No,Raramente,Muchas,Promoción/negocio,Alto
-13.0,X,Diariamente,4.9,10.0,Música,63.0,Sí,A veces,Moderadas,Promoción/negocio,
-15.0,Facebook,Varias veces al día,7.0,6.0,Noticias,10.0,Sí,Raramente,Muchas,Información,Muy bajo
-25.0,YouTube,,2.4,21.0,Videojuegos,34.0,,Raramente,Moderadas,Trabajo,Medio
-,Facebook,Semanalmente,4.0,29.0,Videojuegos,175.0,Sí,Nunca,Pocas,Educación,
-18.0,X,Varias veces al día,2.5,19.0,Memes,173.0,Sí,Siempre,Muchas,Comunicación,Muy bajo
-18.0,WhatsApp,,7.3,7.0,Tutoriales,199.0,Sí,Raramente,Pocas,Entretenimiento,Muy bajo
-17.0,Facebook,Semanalmente,7.6,15.0,,184.0,Sí,Raramente,Pocas,Promoción/negocio,
-16.0,,Raramente,10.4,10.0,,112.0,No,Frecuentemente,,Promoción/negocio,Muy bajo
-25.0,TikTok,Raramente,6.2,4.0,Tutoriales,36.0,Sí,Raramente,Muchas,Promoción/negocio,Bajo
-15.0,WhatsApp,Varias veces al día,9.8,,Deportes,123.0,,Nunca,Muchas,Entretenimiento,Muy alto
-19.0,TikTok,Varias veces por semana,1.6,9.0,Tutoriales,149.0,,A veces,Ninguna,Entretenimiento,Muy alto
-16.0,X,Diariamente,12.0,27.0,Música,199.0,No,Raramente,Pocas,Información,Muy alto
-16.0,Facebook,Raramente,10.7,13.0,Tutoriales,27.0,No,Frecuentemente,Muchas,Promoción/negocio,Muy bajo
-14.0,X,Semanalmente,8.3,28.0,Tutoriales,192.0,Sí,Frecuentemente,Muchas,Comunicación,Muy alto
-14.0,TikTok,Varias veces al día,6.1,5.0,Entretenimiento,113.0,No,Nunca,Muchas,Comunicación,Medio
-16.0,,Raramente,11.2,19.0,,167.0,No,Raramente,Ninguna,Promoción/negocio,Bajo
-14.0,Facebook,Varias veces al día,7.7,19.0,Entretenimiento,35.0,Sí,Frecuentemente,Moderadas,Promoción/negocio,Medio
-13.0,,Varias veces por semana,10.7,5.0,Noticias,19.0,No,Frecuentemente,Moderadas,Entretenimiento,
-22.0,TikTok,Semanalmente,2.6,2.0,Tutoriales,50.0,No,Raramente,Pocas,Trabajo,Muy bajo
-22.0,X,Varias veces al día,6.3,10.0,Educación,77.0,Sí,A veces,Moderadas,Educación,Muy bajo
-16.0,X,Varias veces al día,8.8,7.0,Videojuegos,124.0,,,Ninguna,Comunicación,Muy bajo
-,Facebook,Semanalmente,7.0,17.0,Deportes,101.0,,Frecuentemente,Pocas,Trabajo,Muy bajo
-19.0,X,Diariamente,11.9,,Memes,35.0,No,,Muchas,Promoción/negocio,Medio
-,X,Raramente,10.2,20.0,Videojuegos,91.0,No,Siempre,Pocas,Entretenimiento,Medio
-23.0,TikTok,Semanalmente,3.9,6.0,Memes,187.0,Sí,A veces,Muchas,,Muy alto
-13.0,Facebook,Varias veces por semana,5.2,25.0,Educación,84.0,Sí,A veces,Moderadas,,
-21.0,WhatsApp,Diariamente,7.5,,Noticias,41.0,No,Raramente,Muchas,Información,Muy alto
-,X,Varias veces al día,4.2,30.0,,191.0,,,Ninguna,Información,Muy alto
-15.0,TikTok,Raramente,1.9,1.0,Deportes,82.0,No,A veces,Ninguna,Comunicación,Alto
-24.0,Facebook,Diariamente,6.7,,Memes,136.0,Sí,Siempre,,Promoción/negocio,Medio
-16.0,X,Semanalmente,,10.0,Música,147.0,No,Raramente,,,Muy alto
-17.0,X,Varias veces por semana,,7.0,Música,,Sí,A veces,Ninguna,,Alto
-24.0,TikTok,Semanalmente,2.5,22.0,Tutoriales,199.0,Sí,A veces,Ninguna,Información,Muy alto
-21.0,Instagram,Raramente,1.5,,Noticias,24.0,No,A veces,Muchas,Trabajo,Alto
-13.0,Facebook,Raramente,11.6,,Memes,98.0,No,Raramente,Moderadas,Información,Muy bajo
-22.0,Instagram,Diariamente,6.1,,Música,101.0,No,Nunca,,Educación,Bajo
-23.0,Instagram,,1.9,16.0,Educación,82.0,Sí,A veces,Muchas,Trabajo,Muy alto
-22.0,TikTok,,11.8,25.0,Deportes,135.0,No,Siempre,Pocas,Promoción/negocio,Bajo
-19.0,WhatsApp,Varias veces al día,5.3,14.0,Deportes,135.0,No,Siempre,,Entretenimiento,Alto
-20.0,TikTok,Raramente,2.7,9.0,Deportes,102.0,Sí,A veces,Ninguna,Educación,
-24.0,Facebook,,11.9,14.0,,166.0,,Nunca,Moderadas,Educación,Medio
-,YouTube,Varias veces por semana,,3.0,Videojuegos,114.0,,Siempre,Ninguna,Entretenimiento,Alto
-18.0,,Semanalmente,5.0,29.0,,4.0,,Frecuentemente,Ninguna,Trabajo,Muy alto
-19.0,Facebook,Raramente,5.0,5.0,Memes,152.0,No,Siempre,Muchas,Promoción/negocio,Medio
-23.0,WhatsApp,Diariamente,7.3,8.0,Entretenimiento,,Sí,Siempre,Muchas,Información,Muy bajo
-15.0,WhatsApp,Varias veces por semana,5.6,23.0,Deportes,53.0,No,Siempre,Muchas,Comunicación,Alto
-23.0,WhatsApp,Varias veces al día,0.7,16.0,Tutoriales,76.0,Sí,,Pocas,Entretenimiento,Medio
-25.0,YouTube,Diariamente,,,Entretenimiento,26.0,Sí,Frecuentemente,Pocas,,Medio
-22.0,Instagram,Varias veces por semana,8.9,9.0,Música,155.0,Sí,Raramente,Moderadas,Información,Muy bajo
-20.0,Instagram,Semanalmente,10.1,21.0,,7.0,No,Raramente,Moderadas,Comunicación,Alto
-19.0,TikTok,Diariamente,3.5,14.0,Entretenimiento,18.0,No,Nunca,Muchas,Trabajo,Medio
-14.0,Facebook,Varias veces por semana,3.8,14.0,Deportes,153.0,Sí,A veces,Muchas,Promoción/negocio,Alto
-25.0,X,Varias veces al día,6.5,21.0,Tutoriales,182.0,Sí,Nunca,,Trabajo,Muy alto
-23.0,YouTube,Varias veces por semana,9.9,16.0,Educación,,No,,Muchas,Promoción/negocio,Bajo
-23.0,Instagram,,11.9,30.0,Educación,125.0,No,,Ninguna,Educación,Medio
-20.0,WhatsApp,Raramente,4.5,8.0,Memes,95.0,Sí,Raramente,,Entretenimiento,Medio
-13.0,Instagram,Varias veces por semana,10.8,19.0,Entretenimiento,89.0,Sí,Raramente,Pocas,,Bajo
-19.0,Facebook,Raramente,9.0,16.0,Noticias,112.0,Sí,Siempre,Muchas,Promoción/negocio,Alto
-20.0,X,Raramente,7.6,20.0,Noticias,135.0,Sí,A veces,,Educación,Alto
-17.0,Instagram,Varias veces al día,9.3,14.0,,118.0,No,Frecuentemente,Moderadas,Comunicación,Muy bajo
-20.0,X,Raramente,8.9,9.0,Entretenimiento,,No,,Ninguna,Comunicación,Medio
-21.0,YouTube,Raramente,3.8,15.0,Entretenimiento,103.0,No,Raramente,Muchas,Información,Bajo
-,Facebook,Varias veces al día,,16.0,,110.0,Sí,A veces,Ninguna,Comunicación,Medio
-22.0,YouTube,Varias veces al día,10.2,1.0,Memes,175.0,No,Raramente,Muchas,Comunicación,Muy bajo
-16.0,Facebook,Raramente,,27.0,Noticias,148.0,,Raramente,Muchas,,Bajo
-20.0,X,Varias veces por semana,10.8,11.0,Entretenimiento,117.0,Sí,A veces,Pocas,Comunicación,Alto
-14.0,YouTube,Varias veces al día,5.8,,Tutoriales,126.0,Sí,Siempre,Moderadas,,Alto
-14.0,Instagram,Varias veces por semana,4.5,15.0,Deportes,109.0,,Raramente,Muchas,Educación,Medio
-21.0,Instagram,Varias veces por semana,,,Entretenimiento,,,Siempre,Ninguna,Trabajo,Alto
-19.0,WhatsApp,Varias veces al día,2.7,24.0,Memes,13.0,Sí,Siempre,Muchas,Educación,Muy alto
-15.0,YouTube,Diariamente,7.3,20.0,,88.0,Sí,Nunca,Pocas,Educación,Muy alto
-14.0,TikTok,Semanalmente,6.5,,Tutoriales,177.0,Sí,,Muchas,,Muy bajo
-25.0,X,Diariamente,3.0,,Entretenimiento,196.0,No,Frecuentemente,Muchas,Entretenimiento,Bajo
-16.0,Facebook,,7.4,24.0,Deportes,171.0,Sí,Raramente,Moderadas,Información,Medio
-14.0,YouTube,Varias veces al día,10.1,25.0,Noticias,105.0,No,Raramente,Pocas,Promoción/negocio,Muy bajo
-16.0,,Varias veces al día,1.4,22.0,Deportes,176.0,Sí,Nunca,Ninguna,Comunicación,Alto
-19.0,YouTube,Semanalmente,9.3,8.0,Noticias,151.0,Sí,Raramente,Muchas,Entretenimiento,Alto
-21.0,X,Semanalmente,2.3,7.0,Entretenimiento,,No,Siempre,Moderadas,Trabajo,Alto
-20.0,YouTube,Varias veces por semana,,25.0,Educación,22.0,Sí,Raramente,Pocas,Información,Alto
+17.0,X,Raramente,0.8,1.0,Educación,24.0,No,Raramente,Ninguna,Trabajo,Muy alto
+36.0,YouTube,Varias veces al día,10.9,12.0,Tutoriales,117.0,Sí,Frecuentemente,Moderadas,Información,
+27.0,YouTube,,5.9,15.0,Memes,49.0,No,A veces,Moderadas,Entretenimiento,Medio
+17.0,YouTube,Varias veces por semana,,7.0,Deportes,23.0,No,Frecuentemente,Pocas,Comunicación,Alto
+29.0,Facebook,Raramente,0.9,1.0,Tutoriales,9.0,No,,Pocas,Información,Bajo
+33.0,X,Diariamente,2.6,2.0,Noticias,59.0,No,A veces,,Información,
+23.0,YouTube,Diariamente,6.3,8.0,Memes,92.0,No,Siempre,Pocas,,Muy bajo
+50.0,Facebook,Diariamente,5.1,6.0,Deportes,64.0,No,Raramente,Muchas,,Alto
+50.0,TikTok,Varias veces por semana,3.3,12.0,Memes,73.0,No,A veces,Pocas,,Alto
+26.0,Instagram,Varias veces por semana,2.4,9.0,Memes,36.0,Sí,A veces,Pocas,Entretenimiento,Alto
+19.0,TikTok,Varias veces al día,5.0,8.0,,94.0,No,Frecuentemente,Muchas,Información,Alto
+,WhatsApp,Varias veces por semana,4.9,11.0,Tutoriales,,No,Raramente,Ninguna,Entretenimiento,Alto
+,Instagram,Diariamente,7.5,14.0,Deportes,160.0,No,Frecuentemente,Pocas,Entretenimiento,Medio
+25.0,WhatsApp,Varias veces al día,11.4,14.0,Entretenimiento,158.0,Sí,Frecuentemente,Muchas,Comunicación,Medio
+32.0,TikTok,Diariamente,2.8,,Memes,8.0,No,Raramente,Moderadas,Entretenimiento,
+26.0,YouTube,,6.6,12.0,Entretenimiento,154.0,Sí,A veces,Moderadas,Entretenimiento,Muy alto
+18.0,Instagram,Diariamente,4.9,17.0,Música,57.0,No,Raramente,Moderadas,Trabajo,Muy alto
+19.0,TikTok,,4.5,16.0,Noticias,57.0,No,Frecuentemente,Pocas,Educación,Medio
+42.0,YouTube,Varias veces por semana,3.1,11.0,Música,37.0,No,A veces,,Educación,Alto
+21.0,Instagram,Varias veces al día,7.0,25.0,,134.0,No,Raramente,Moderadas,Información,Medio
+23.0,TikTok,Semanalmente,3.0,5.0,Música,34.0,No,A veces,Moderadas,,
+37.0,WhatsApp,Diariamente,6.6,8.0,Memes,133.0,Sí,A veces,Moderadas,Comunicación,Alto
+23.0,Instagram,Semanalmente,1.2,5.0,Deportes,37.0,Sí,Raramente,Ninguna,Información,Muy alto
+36.0,Instagram,Semanalmente,0.8,4.0,Tutoriales,14.0,No,A veces,Pocas,Información,Muy bajo
+49.0,WhatsApp,Diariamente,5.4,6.0,Noticias,52.0,No,A veces,Ninguna,Comunicación,Alto
+21.0,,Varias veces al día,,18.0,Entretenimiento,87.0,Sí,Siempre,,,Medio
+20.0,TikTok,,3.6,,Videojuegos,57.0,Sí,Frecuentemente,Moderadas,Entretenimiento,Bajo
+24.0,WhatsApp,Semanalmente,1.3,2.0,Entretenimiento,11.0,No,,Pocas,Educación,Bajo
+51.0,Facebook,Varias veces al día,6.0,14.0,Deportes,95.0,,A veces,Pocas,Educación,Alto
+,WhatsApp,Diariamente,7.4,23.0,Deportes,96.0,Sí,Frecuentemente,Moderadas,Promoción/negocio,Alto
+14.0,TikTok,,1.1,5.0,Videojuegos,58.0,,A veces,Pocas,Promoción/negocio,Muy bajo
+35.0,Instagram,Varias veces al día,6.4,24.0,Tutoriales,142.0,Sí,Frecuentemente,Muchas,Entretenimiento,Medio
+42.0,YouTube,Diariamente,5.2,6.0,Tutoriales,53.0,Sí,Frecuentemente,Muchas,Entretenimiento,Medio
+28.0,WhatsApp,Raramente,1.2,3.0,Deportes,15.0,No,Nunca,Ninguna,Comunicación,Medio
+22.0,,Diariamente,5.5,5.0,Música,62.0,Sí,Siempre,Moderadas,,Muy bajo
+14.0,X,Varias veces al día,4.6,7.0,Noticias,108.0,Sí,Frecuentemente,Moderadas,Comunicación,Medio
+35.0,WhatsApp,Semanalmente,2.6,,,26.0,Sí,A veces,Pocas,Entretenimiento,Muy bajo
+,WhatsApp,Diariamente,2.8,5.0,Noticias,,No,Frecuentemente,Ninguna,Educación,Muy bajo
+,Facebook,Diariamente,2.2,2.0,Entretenimiento,43.0,No,Siempre,Pocas,,
+48.0,WhatsApp,Varias veces por semana,4.5,17.0,Entretenimiento,105.0,Sí,A veces,Moderadas,Comunicación,Alto
+21.0,TikTok,Varias veces al día,7.7,21.0,,90.0,Sí,A veces,Moderadas,Comunicación,Muy bajo
+24.0,TikTok,Varias veces por semana,4.4,9.0,Tutoriales,60.0,No,Frecuentemente,Ninguna,Comunicación,Medio
+14.0,YouTube,Diariamente,,13.0,Deportes,96.0,No,Frecuentemente,Moderadas,Comunicación,Medio
+18.0,,Varias veces al día,9.1,,Memes,132.0,No,Frecuentemente,Muchas,,Medio
+31.0,YouTube,Semanalmente,1.4,6.0,Entretenimiento,,Sí,,Pocas,Comunicación,Alto
+53.0,YouTube,Diariamente,7.7,16.0,Videojuegos,62.0,No,Siempre,Moderadas,Comunicación,Bajo
+,Instagram,Varias veces por semana,3.0,8.0,Educación,48.0,,Raramente,Muchas,Entretenimiento,Alto
+,YouTube,Semanalmente,1.4,7.0,Música,49.0,No,Raramente,Pocas,Comunicación,Muy alto
+54.0,WhatsApp,Diariamente,3.4,8.0,Memes,32.0,No,Frecuentemente,,Promoción/negocio,Medio
+19.0,Instagram,Diariamente,5.3,11.0,Música,84.0,Sí,Raramente,Moderadas,Trabajo,Alto
+38.0,X,Varias veces al día,10.5,14.0,Deportes,,No,Siempre,Muchas,Información,Muy alto
+15.0,X,Varias veces al día,10.9,20.0,Noticias,167.0,No,A veces,Muchas,,Medio
+13.0,YouTube,,5.9,16.0,Entretenimiento,62.0,No,Raramente,Pocas,Entretenimiento,Medio
+49.0,X,Varias veces al día,,24.0,Tutoriales,126.0,,,Moderadas,Entretenimiento,Bajo
+54.0,,Varias veces al día,8.8,8.0,Memes,99.0,No,Raramente,,Entretenimiento,Medio
+21.0,Instagram,Varias veces al día,10.7,21.0,Entretenimiento,119.0,Sí,,Moderadas,Entretenimiento,Medio
+34.0,Facebook,Diariamente,,22.0,Tutoriales,150.0,Sí,A veces,Muchas,Información,Medio
+21.0,Instagram,Raramente,1.4,8.0,Tutoriales,,No,,Pocas,Entretenimiento,Alto
+,WhatsApp,Raramente,0.9,3.0,Tutoriales,19.0,No,Nunca,Pocas,,Muy bajo
+,WhatsApp,Varias veces al día,4.9,,Memes,56.0,No,Frecuentemente,Pocas,Comunicación,Medio
+,YouTube,Diariamente,5.0,9.0,Deportes,,Sí,A veces,Moderadas,Trabajo,Medio
+29.0,Facebook,Varias veces al día,4.8,10.0,Noticias,21.0,No,Frecuentemente,Moderadas,Entretenimiento,Medio
+27.0,YouTube,Diariamente,4.8,11.0,,42.0,No,A veces,,Información,
+18.0,,Semanalmente,2.7,9.0,Entretenimiento,21.0,No,,Pocas,Entretenimiento,Medio
+31.0,TikTok,Varias veces por semana,1.0,5.0,Música,,No,Raramente,Ninguna,Educación,Bajo
+17.0,WhatsApp,Diariamente,4.4,7.0,Videojuegos,82.0,No,Siempre,Ninguna,Entretenimiento,Alto
+27.0,WhatsApp,Diariamente,2.8,10.0,Educación,48.0,No,Raramente,,,
+30.0,WhatsApp,Varias veces al día,4.3,15.0,Deportes,58.0,No,A veces,Moderadas,Información,Medio
+20.0,Instagram,Diariamente,6.8,12.0,Memes,87.0,No,Frecuentemente,Muchas,Comunicación,Medio
+14.0,TikTok,Varias veces al día,5.7,14.0,Entretenimiento,55.0,No,Frecuentemente,Pocas,Información,Bajo
+25.0,X,Varias veces al día,7.0,20.0,Noticias,51.0,No,,,Información,Medio
+42.0,WhatsApp,Raramente,0.7,3.0,Noticias,2.0,No,Frecuentemente,Pocas,Comunicación,Bajo
+38.0,YouTube,Diariamente,6.1,22.0,,71.0,,Frecuentemente,Pocas,Entretenimiento,Medio
+26.0,Facebook,Diariamente,5.2,12.0,Entretenimiento,,Sí,A veces,,Promoción/negocio,Alto
+49.0,WhatsApp,Varias veces por semana,1.5,9.0,Memes,11.0,No,Raramente,Moderadas,Entretenimiento,Alto
+52.0,Facebook,,1.2,10.0,Tutoriales,,No,Nunca,Pocas,Educación,
+14.0,Instagram,Semanalmente,2.1,8.0,Educación,27.0,No,Frecuentemente,,Información,Muy alto
+19.0,Facebook,Varias veces al día,7.3,20.0,Noticias,146.0,,Siempre,Moderadas,Comunicación,Bajo
+21.0,WhatsApp,Varias veces al día,8.7,13.0,Noticias,71.0,Sí,A veces,Pocas,Comunicación,Medio
+30.0,Instagram,,7.7,18.0,Memes,139.0,No,A veces,Pocas,Promoción/negocio,Bajo
+21.0,X,Raramente,,3.0,Noticias,23.0,Sí,,Pocas,Entretenimiento,Medio
+24.0,WhatsApp,Semanalmente,0.9,3.0,Educación,25.0,No,,Pocas,Educación,Alto
+54.0,,Diariamente,4.7,12.0,Deportes,59.0,No,A veces,Ninguna,Educación,Bajo
+,TikTok,,1.7,9.0,,39.0,No,,Pocas,Entretenimiento,Alto
+27.0,Instagram,Varias veces al día,5.5,10.0,Música,94.0,,A veces,Muchas,Promoción/negocio,Muy bajo
+13.0,Instagram,Diariamente,3.5,11.0,Memes,103.0,Sí,Frecuentemente,Pocas,Promoción/negocio,
+36.0,YouTube,Varias veces al día,3.3,,Música,63.0,Sí,A veces,Ninguna,Educación,Medio
+21.0,Facebook,Varias veces al día,10.8,30.0,Noticias,167.0,Sí,Frecuentemente,,Información,Alto
+24.0,,Semanalmente,2.4,10.0,Educación,8.0,No,A veces,Moderadas,Comunicación,Alto
+,WhatsApp,Varias veces por semana,4.6,13.0,Memes,63.0,Sí,Siempre,Pocas,Trabajo,Alto
+21.0,,Varias veces al día,5.2,14.0,,93.0,No,Raramente,Pocas,Trabajo,Medio
+19.0,X,Diariamente,3.9,7.0,Noticias,59.0,No,Frecuentemente,,Educación,Medio
+24.0,TikTok,Semanalmente,2.3,10.0,Memes,43.0,No,Frecuentemente,Moderadas,Trabajo,
+23.0,Facebook,Varias veces al día,10.3,13.0,Música,85.0,,Frecuentemente,Muchas,Entretenimiento,Muy alto
+22.0,YouTube,Varias veces al día,7.9,23.0,Tutoriales,119.0,Sí,Siempre,Moderadas,Educación,Bajo
+54.0,YouTube,Diariamente,5.6,14.0,Música,85.0,Sí,Frecuentemente,,Comunicación,Medio
+33.0,WhatsApp,Raramente,0.9,3.0,Memes,,,Nunca,Ninguna,Comunicación,Alto
+13.0,Facebook,,3.1,14.0,Entretenimiento,32.0,No,A veces,Pocas,Entretenimiento,Medio
+14.0,Instagram,Varias veces al día,5.2,9.0,Entretenimiento,93.0,Sí,Siempre,Muchas,,
+21.0,,Varias veces al día,10.9,17.0,Entretenimiento,167.0,,Siempre,Muchas,Entretenimiento,Alto

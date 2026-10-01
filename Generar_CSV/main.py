@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import random
 from variables_categoricas import *
+from funciones import *
 
 
 #TODO: Limpia la terminal
@@ -20,69 +21,66 @@ Cls()
 # print(motivo_principal)
 # print(nivel_satisfaccion)
 
-#? edad = [13, 65]
+#? edad = [13, 54]
 #? horas_diarias = [0.5, 12]
 #? sesiones_diarias = [1, 30]
 #? interaccion_diaria = [0, 200]
 
-#TODO: Funciones:
-def generar_null(valor, probabilidad=0.10):
-    if random.random() < probabilidad:
-        return None
-    return valor
 
 #TODO: Generar dataset:
 datos = []
 
 for i in range(100):
+    
+    edad = generar_edad()
 
+    red = generar_red_social(edad)
+    
+    frecuencia = generar_frecuencia()
+
+    horas = generar_horas(frecuencia)
+
+    sesiones = generar_sesiones(horas)
+
+    contenido = generar_tipo_contenido(red)
+
+    interaccion = generar_interaccion(horas)
+
+    publica = generar_publica_contenido(
+        interaccion, horas,
+        sesiones, red, contenido
+    )
+
+    uso_noche = generar_uso_nocturno(horas)
+
+    notificaciones_usuario = generar_notificaciones(
+        horas, sesiones, interaccion
+    )
+
+    motivo = generar_motivo(
+        red, contenido
+    )
+
+    satisfaccion = generar_satisfaccion(
+        horas, uso_noche
+    )
+    
     registro = {
-        "edad": generar_null(random.randint(13, 25)),
-
-        "red_social_principal": generar_null(
-            random.choice(red_social_principal)
-        ),
-
-        "frecuencia_uso": generar_null(
-            random.choice(frecuencia_uso)
-        ),
-
-        "horas_diarias": generar_null(
-            round(random.uniform(0.5, 12), 1)
-        ),
-
-        "sesiones_diarias": generar_null(
-            random.randint(1, 30)
-        ),
-
-        "tipo_contenido": generar_null(
-            random.choice(tipo_contenido)
-        ),
-
-        "interaccion_diaria": generar_null(
-            random.randint(0, 200)
-        ),
-
-        "publica_contenido": generar_null(
-            random.choice(publica_contenido)
-        ),
-
-        "uso_nocturno": generar_null(
-            random.choice(uso_nocturno)
-        ),
-
-        "notificaciones": generar_null(
-            random.choice(notificaciones)
-        ),
-
-        "motivo_principal": generar_null(
-            random.choice(motivo_principal)
-        ),
-
-        "nivel_satisfaccion": generar_null(
-            random.choice(nivel_satisfaccion)
-        )
+        "edad": edad,
+        "red_social_principal": red,
+        "frecuencia_uso": frecuencia,
+        "horas_diarias": horas,
+        "sesiones_diarias": sesiones,
+        "tipo_contenido": contenido,
+        "interaccion_diaria": interaccion,
+        "publica_contenido": publica,
+        "uso_nocturno": uso_noche,
+        "notificaciones": notificaciones_usuario,
+        "motivo_principal": motivo,
+        "nivel_satisfaccion": satisfaccion
     }
+    
+    registro = aplicar_nulls(registro)
 
     datos.append(registro)
 
@@ -92,7 +90,7 @@ df = pd.DataFrame(datos)
 
 #TODO: Guardar el DataFrame como CSV:
 df.to_csv(
-    "redes_sociales.csv",
+    "redes_sociales_test.csv",
     index=False,
     encoding="utf-8-sig"
 )
