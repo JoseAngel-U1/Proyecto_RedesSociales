@@ -37,7 +37,7 @@ datos = []
 for i in range(100):
 
     registro = {
-        "edad": generar_null(random.randint(13, 65)),
+        "edad": generar_null(random.randint(13, 25)),
 
         "red_social_principal": generar_null(
             random.choice(red_social_principal)
